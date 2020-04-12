@@ -1,0 +1,1625 @@
+@media (min-width: 360px) and (max-width: 479.99px) {
+    .navbar-expand-lg{
+        opacity: 90%!important;
+    }
+     .carousel-caption {
+    margin-top: 70px;
+         top: 0;
+
+}
+
+.carousel-caption h5 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top:0px;
+}
+    .carousel-caption h1{
+        font-size: 15px;
+      
+    }
+
+.carousel-caption p {
+    width: 100%;
+    margin: auto;
+    font-size: 10px;
+    line-height: 1.9;
+    opacity: 0;
+   
+}
+    .carousel-caption button{
+        margin-top:-60px;
+        padding: 5px 5px;
+    }
+    .navbar{
+        padding: 0px default;
+        margin: 0px default;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+
+/*Work Proccess*/
+    #workingproccess{
+        margin-top:150px;
+        padding-top: 0px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    } 
+    .workingproccesssections:first-child{
+        padding-top: 0;
+        margin-top: -80px;
+    }
+.workingproccesssections {
+    padding: 30px 0px;
+    height: none;
+
+}
+
+.workingproccesssections img {
+    width: 40px;
+    color: #C7B199;
+}
+
+.workingproccesssections h3 {
+    font-size: 18px;
+    padding-top: 15px;
+
+}
+
+.workingproccesssections p {
+    width: 90%;
+    text-align:justify center;
+    font-size: 14px;
+}
+    .idea-text h1{font-size:19px;
+    font-weight: 700;}
+    .idea-text p{font-size:14px;
+    width: 100%;}
+/*   Waxom Purse*/
+    .purse-text{
+        text-align: center
+    }
+    .purse-text h1{
+        font-size:25px;
+        margin-top: 25px;
+    }
+    .purse-text p{
+        font-size:13px;
+    }
+    .purse-btn{
+        text-align: center;
+    }
+    .purse-btn button {
+    margin-top: 0px;
+        width: 200px;
+        margin-left: 40px;
+}
+
+.purse-btn button a {
+    font-size: 12px;
+}
+/*Letest Project Gallery*/
+    .project-nav{
+        width: 100%!important;
+        margin-bottom: 30px;
+    }
+    .project-head h1{
+        font-size: 35px;
+    }
+    .project-head p{
+        width:100%;
+    }
+    .ltli{width:100%;   }
+    .lp-gallery .box-content:hover{
+    width: 100%;
+    height:70.3%;
+   
+    padding-left:140px;
+    padding-top: 100px;
+  
+}
+    .img-text {
+        width: 95%!important;
+        text-align: center;
+
+    }
+    .img-text h5{
+        font-size:20px;
+        font-weight: 700;}
+    .img-text p{
+        font-size: 17px;
+    }
+.vid{
+    margin-top: -30px;
+}
+   .video-text h2{
+       font-size:21px;
+       font-weight: 600;
+   }
+   .video-text p{}
+   .video-text h6{
+       
+   }
+/*Mobile Device*/
+    .mobile-sec1{
+        text-align: center;
+    }
+    .mobile-sec1 img {
+    width: 50%;
+    height: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+}
+
+    .mobile-sec2 {
+    padding-top: 0px;
+        text-align: center;
+}
+.mobile-sec2 h1{
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+}
+.mobile-sec2 p{
+    font-size: 13px;
+}  
+.mobile-sec2 ol{
+    text-align: left;
+}
+/*Counter Sec*/
+#counter {
+    padding: 0;
+    background-image: url('../images/Counter%20BG.jpg')
+}
+
+.middle {
+    width: 100%;
+    margin-left: 0;
+}
+
+.counting-sec {
+    padding: 40px 0;
+    width: 100%;
+    margin-left: 0;
+}
+
+.inner-width {
+    margin: auto;
+    display: flex;
+}
+
+.col {
+
+    text-align: center;
+    padding: 0px 5px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.col i {
+    font-size: 30px;
+    color: #333;
+}
+
+.num {
+    font-size: 20px;
+}
+
+/*    Recent Post*/
+    .recent-head p {
+    width: 90%;
+    font-size: 13px;
+}
+    .recentg{
+        text-align: center;
+        margin-top: 30px
+    }
+    .part1-text{
+        text-align: center;
+        width: 100%;
+
+    }
+    .part1-text h4{
+        font-size: 20px;
+        text-align: center
+            
+    }
+    .part1-text p {
+    width: 90%;
+    text-align:center;
+        font-size: 13px;
+        
+}
+    .part1-text a{
+        margin-left:15px;
+        
+    }
+    .recent-gallery:hover .part1-text {
+    background-color: #372E29;
+    color: white;
+    width: 100%;
+    transition: 0.5s all ease;
+
+}
+.date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:20px;
+    margin-left:20px;
+    opacity:1;
+    }
+    .recent-gallery:hover .date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:20px;
+    margin-left:20px;
+    opacity:1;
+    }
+    .day{
+        background-color: #38373C;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:17%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .recent-gallery:hover .day{
+        background-color:#C7B297;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:17%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .day p{
+        font-size: 35px;
+        text-align: center;
+        line-height: 1;
+        margin-top: 10px;
+        font-family: cursive;
+    }
+    
+    .month{
+        background-color: #242424;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 17%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .recent-gallery:hover .month{
+        background-color:#A38D78;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 17%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+/* Partners*/
+    .partnerimg {
+    width: 70px;
+    height: auto;
+}
+   #nav-search input[type=search]:focus {
+    width: 100px;
+}
+/*    Footer*/
+#footer{
+    padding-top: 0;
+}
+    .flogo{
+        width: 40%!important;
+    }
+    #footer h2{
+        font-size:20px;
+    }
+    #footer p{
+        font-size:15px
+    }
+    .ft1{
+       text-align: center;
+       border: 1px solid white;
+       padding: 20px 0px;
+
+    }
+   
+    .ft2{
+        text-align: center;
+        padding: 20px 0px;
+        border: 1px solid white;
+    }
+    .ft2 p{color:white;}
+    .ft3{
+text-align: center;
+border: 1px solid white;
+margin-bottom: 30px;
+padding: 20px 0px;
+    }
+    .ft4{
+        text-align: center;
+    }
+    .ft4 h2{
+        font-size: 30px!important;
+    }
+    .copylink a{
+        font-size:14px!important;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .copylink a:first-child{
+        margin-left: 15x;
+        display: block;
+        text-align: center;
+
+    }
+.copylink{
+    display: inline-block;
+    margin-left:70px;
+}
+.copyright{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 480px) and (max-width: 575.98px) {  .navbar-expand-lg{
+        opacity: 90%!important;
+    }
+     .carousel-caption {
+    margin-top: 50px;
+         top: 0;
+
+}
+
+.carousel-caption h5 {
+    font-size: 19px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top:0px;
+}
+    .carousel-caption h1{
+        font-size: 30px;
+    }
+
+.carousel-caption p {
+    width: 80%;
+    margin: auto;
+    font-size: 12px;
+    line-height: 1.9;
+}
+    .carousel-caption button{
+        margin-top: 10px;
+    }
+    .navbar{
+        padding: 0px default;
+        margin: 0px default;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+
+/*Work Proccess*/
+    #workingproccess{
+        margin-top:150px;
+        padding-top: 0px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    } 
+    .workingproccesssections:first-child{
+        padding-top: 0;
+        margin-top: -80px;
+    }
+.workingproccesssections {
+    padding: 30px 0px;
+    height: none;
+
+}
+
+.workingproccesssections img {
+    width: 40px;
+    color: #C7B199;
+}
+
+.workingproccesssections h3 {
+    font-size: 18px;
+    padding-top: 15px;
+
+}
+
+.workingproccesssections p {
+    width: 90%;
+    text-align:justify center;
+    font-size: 14px;
+}
+    .idea-text h1{font-size:27px}
+    .idea-text p{font-size:14px}
+/*   Waxom Purse*/
+    .purse-text{
+        text-align: center
+    }
+    .purse-text h1{
+        font-size:22px;
+        margin-top: 25px;
+    }
+    .purse-text p{
+        font-size:15px;
+    }
+    .purse-btn{
+        text-align: center;
+    }
+    .purse-btn button {
+    margin-top: 30px;
+        width: 200px;
+        margin-left: 40px;
+}
+
+.purse-btn button a {
+    font-size: 12px;
+}
+/*Letest Project Gallery*/
+    .project-nav{
+        width: 100%!important;
+        margin-bottom: 30px;
+    }
+    .ltli{margin-left: -5px;
+    }
+    .lp-gallery .box-content:hover{
+    width: 100%;
+    height:75.3%;
+   
+    padding-left:200px;
+    padding-top: 150px;
+  
+}
+    .img-text {
+        width: 95%!important
+    }
+    .img-text h5{
+        font-size:25px;
+        font-weight: 700;}
+    .img-text p{
+        font-size: 17px;
+    }
+/*Mobile Device*/
+    .mobile-sec1{
+        text-align: center;
+    }
+    .mobile-sec1 img {
+    width: 50%;
+    height: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+}
+
+    .mobile-sec2 {
+    padding-top: 0px;
+        text-align: center;
+}
+.mobile-sec2 h1{
+    font-size: 33px;
+}
+.mobile-sec2 p{
+    font-size: 13px;
+}  
+.mobile-sec2 ol{
+    text-align: left;
+}
+/*Counter Sec*/
+#counter {
+    padding: 0;
+    background-image: url('../images/Counter%20BG.jpg')
+}
+
+.middle {
+    width: 100%;
+}
+
+.counting-sec {
+    padding: 40px 0;
+    width: 100%;
+}
+
+.inner-width {
+    margin: auto;
+    display: flex;
+}
+
+.col {
+
+    text-align: center;
+    padding: 0px 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.col i {
+    font-size: 40px;
+    color: #333;
+}
+
+.num {
+    font-size: 30px;
+}
+
+/*    Recent Post*/
+    .recent-head p {
+    width: 90%;
+}
+    .recentg{
+        text-align: center;
+        margin-top: 30px
+    }
+    .part1-text{
+        text-align: center;
+        width: 83%;
+
+    }
+    .part1-text h4{
+        font-size: 20px;
+        text-align: center
+            
+    }
+    .part1-text p {
+    width: 90%;
+    text-align:center;
+        font-size: 13px;
+        
+}
+    .part1-text a{
+        margin-left:15px;
+        
+    }
+    .recent-gallery:hover .part1-text {
+    background-color: #372E29;
+    color: white;
+    width: 82.2%;
+    transition: 0.5s all ease;
+
+}
+.date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:20px;
+    margin-left:60px;
+    opacity:1;
+    }
+    .recent-gallery:hover .date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:20px;
+    margin-left:60px;
+    opacity:1;
+    }
+    .day{
+        background-color: #38373C;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:15%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .recent-gallery:hover .day{
+        background-color:#C7B297;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:15%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .day p{
+        font-size: 35px;
+        text-align: center;
+        line-height: 1;
+        margin-top: 10px;
+        font-family: cursive;
+    }
+    
+    .month{
+        background-color: #242424;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 15%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .recent-gallery:hover .month{
+        background-color:#A38D78;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 15%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+/* Partners*/
+    .partnerimg {
+    width: 80px;
+    height: auto;
+}
+   #nav-search input[type=search]:focus {
+    width: 100px;
+}
+/*    Footer*/
+#footer{
+    padding-top: 0;
+}
+    .flogo{
+        width: 40%!important;
+    }
+    #footer h2{
+        font-size:20px;
+    }
+    #footer p{
+        font-size:15px
+    }
+    .ft1{
+       text-align: center;
+       border: 1px solid white;
+       padding: 20px 0px;
+
+    }
+   
+    .ft2{
+        text-align: center;
+        padding: 20px 0px;
+        border: 1px solid white;
+    }
+    .ft2 p{color:white;}
+    .ft3{
+text-align: center;
+border: 1px solid white;
+margin-bottom: 30px;
+padding: 20px 0px;
+    }
+    .ft4{
+        text-align: center;
+    }
+    .ft4 h2{
+        font-size: 30px!important;
+    }
+    .copylink a{
+        font-size:14px!important;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .copylink a:first-child{
+        margin-left: 0;
+    }
+.copylink{
+    display: inline-block;
+    margin-left:40px;
+}
+.copyright{
+    display: inline-block;
+    margin-left: 160px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-expand-lg{
+        opacity: 90%!important;
+    }
+     .carousel-caption {
+    margin-top: 100px;
+         top: 0;
+
+}
+
+.carousel-caption h5 {
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top:0px;
+}
+    .carousel-caption h1{
+        font-size: 30px;
+    }
+
+.carousel-caption p {
+    width: 80%;
+    margin: auto;
+    font-size: 12px;
+    line-height: 1.9;
+}
+    .carousel-caption button{
+        margin-top: 20px;
+    }
+
+/*Work Proccess*/
+    #workingproccess{
+        margin-top:150px;
+        padding-top: 0px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    } 
+    .workingproccesssections:first-child{
+        padding-top: 0;
+        margin-top: -80px;
+    }
+.workingproccesssections {
+    padding: 30px 0px;
+
+}
+
+.workingproccesssections img {
+    width: 40px;
+    color: #C7B199;
+}
+
+.workingproccesssections h3 {
+    font-size: 18px;
+    padding-top: 15px;
+
+}
+
+.workingproccesssections p {
+    width: 90%;
+    text-align:justify center;
+    font-size: 14px;
+}
+    .idea-text h1{font-size:30px}
+    .idea-text p{font-size:13px}
+/*   Waxom Purse*/
+    .purse-text{
+        text-align: center
+    }
+    .purse-text h1{
+        font-size:22px;
+        margin-top: 25px;
+    }
+    .purse-text p{
+        font-size:15px;
+    }
+    .purse-btn{
+        text-align: center;
+    }
+    .purse-btn button {
+    margin-top: 30px;
+        width: 200px;
+        margin-left: 40px;
+}
+
+.purse-btn button a {
+    font-size: 12px;
+}
+/*Letest Project Gallery*/
+    .project-nav{
+        width: 100%!important;
+        margin-bottom: 30px;
+    }
+    .lp-gallery .box-content:hover{
+    width: 100%;
+    height:77.7%;
+   
+    padding-left:240px;
+    padding-top: 160px;
+  
+}
+    .img-text {
+        width: 95%!important
+    }
+    .img-text h5{
+        font-size:25px;
+        font-weight: 700;}
+    .img-text p{
+        font-size: 17px;
+    }
+/*Mobile Device*/
+    .mobile-sec1{
+        text-align: center;
+    }
+    .mobile-sec1 img {
+    width: 50%;
+    height: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+}
+
+    .mobile-sec2 {
+    padding-top: 0px;
+        text-align: center;
+}
+    
+/*Counter Sec*/
+#counter {
+    padding: 0;
+    background-image: url('../images/Counter%20BG.jpg')
+}
+
+.middle {
+    width: 100%;
+}
+
+.counting-sec {
+    padding: 40px 0;
+    width: 100%;
+}
+
+.inner-width {
+    margin: auto;
+    display: flex;
+}
+
+.col {
+
+    text-align: center;
+    padding: 0px 10px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.col i {
+    font-size: 40px;
+    color: #333;
+}
+
+.num {
+    font-size: 30px;
+}
+
+/*    Recent Post*/
+    .recent-head p {
+    width: 90%;
+}
+    .recentg{
+        text-align: center;
+        margin-top: 30px
+    }
+    .part1-text{
+        text-align: center;
+        width: 72.6%;
+
+    }
+    .part1-text h4{
+        font-size: 20px;
+        text-align: center
+            
+    }
+    .part1-text p {
+    width: 85%;
+    text-align:center;
+        font-size: 13px;
+        
+}
+    .part1-text a{
+        margin-left:15px;
+        
+    }
+    .recent-gallery:hover .part1-text {
+    background-color: #372E29;
+    color: white;
+    width: 72.6%;
+    transition: 0.5s all ease;
+
+}
+.date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:80px;
+    opacity:1;
+    }
+    .recent-gallery:hover .date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:80px;
+    opacity:1;
+    }
+    .day{
+        background-color: #38373C;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:15%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .recent-gallery:hover .day{
+        background-color:#C7B297;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:15%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .day p{
+        font-size: 35px;
+        text-align: center;
+        line-height: 1;
+        margin-top: 10px;
+        font-family: cursive;
+    }
+    
+    .month{
+        background-color: #242424;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 15%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .recent-gallery:hover .month{
+        background-color:#A38D78;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 15%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+/* Partners*/
+    .partnerimg {
+    width: 100px;
+    height: auto;
+}
+   #nav-search input[type=search]:focus {
+    width: 100px;
+}
+/*    Footer*/
+    .flogo{
+        width: 50%!important;
+    }
+    #footer h2{
+        font-size:23px;
+    }
+    #footer p{
+        font-size:15px
+    }
+    .ft1{
+       text-align: center;
+       margin-bottom: 10px;
+       border: 1px solid white;
+       padding: 20px 0px;
+    }
+   
+    .ft2{
+        text-align: center;
+        margin:30px 0px;
+        padding: 20px 0px;
+        border: 1px solid white;
+    }
+    .ft2 p{color:blue;}
+    .ft3{
+text-align: center;
+border: 1px solid white;
+margin-bottom: 30px;
+padding: 20px 0px;
+    }
+    .ft4{
+        text-align: center;
+    }
+    .ft4 h2{
+        font-size: 30px!important;
+    }
+    .copylink a{
+        font-size:14px!important;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .copylink a:first-child{
+        margin-left: 0;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .carousel-caption {
+    margin-top: 100px;
+}
+
+.carousel-caption h5 {
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top:0px;
+}
+    .carousel-caption h1{
+        font-size: 40px;
+    }
+
+.carousel-caption p {
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    line-height: 1.9;
+}
+    .carousel-caption button{
+        margin-top: 50px;
+    }
+
+/*Work Proccess*/
+    #workingproccess{
+        margin-top: 0px;
+        padding-top: 0px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    } 
+.workingproccesssections {
+    padding: 30px 0px;
+
+}
+
+.workingproccesssections img {
+    width: 40px;
+    color: #C7B199;
+}
+
+.workingproccesssections h3 {
+    font-size: 18px;
+    padding-top: 15px;
+
+}
+
+.workingproccesssections p {
+    width: 90%;
+    text-align:justify center;
+    font-size: 14px;
+}
+/*   Waxom Purse*/
+    .purse-text h1{
+        font-size:22px;
+        margin-top: 25px;
+    }
+    .purse-text p{
+        font-size:15px;
+    }
+    .purse-btn button {
+    margin-top: 30px;
+        width: 170px;
+        margin-left: 40px;
+}
+
+.purse-btn button a {
+    font-size: 12px;
+}
+/*Letest Project Gallery*/
+    .project-nav{
+        width: 80%!important;
+        margin-bottom: 30px;
+    }
+    .lp-gallery .box-content:hover{
+    width: 100%;
+    height:65.5%;
+   
+    padding-left:80px;
+    padding-top: 60px;
+  
+}
+    .img-text {
+        width: 85%!important
+    }
+    .img-text h5{
+        font-size:13px;
+        font-weight: 700;}
+    .img-text p{
+        font-size: 11px;
+    }
+/*Mobile Device*/
+    .mobile-sec1 img {
+    width: 100%;
+    height: 100%
+}
+
+    .mobile-sec2 {
+    padding-top: 30px;
+}
+    .col{
+        font-size:11px;
+        font-weight: 500;
+    }
+/*    Recent Post*/
+    .recent-head p {
+    width: 90%;
+}
+    .part1-text h4{
+        font-size: 20px;
+    }
+    .part1-text p {
+    width: 85%;
+    text-align: left;
+        font-size: 13px;
+}
+    .part1-text a{
+        margin-left:15px;
+        
+    }
+    .date{
+        position: absolute;
+        top: 0;
+        left: 0;
+        
+        right: 0;
+        margin-top:0px;
+        margin-left:0px;
+        opacity:1;
+        }
+        .recent-gallery:hover .date{
+        position: absolute;
+        top: 0;
+        left: 0;
+        
+        right: 0;
+        margin-top:0px;
+        margin-left:0px;
+        opacity:1;
+        }
+        .day{
+            background-color: #38373C;
+            color:white;
+            font-weight: 700;
+            font-size: 15px;
+            padding: 5px;
+            margin: 0;
+            height: 100%;
+            width:25%;
+            border-top-left-radius:0px;
+            border-top-right-radius: 0px;
+        }
+        .recent-gallery:hover .day{
+            background-color:#C7B297;
+            color:white;
+            font-weight: 700;
+            font-size: 17px;
+            padding: 5px;
+            margin: 0;
+            height: 100%;
+            width:25%;
+            border-top-left-radius:0px;
+            border-top-right-radius: 0px;
+        }
+        .day p{
+            font-size: 20px;
+            text-align: center;
+            line-height: 1;
+            margin-top: 20px;
+            font-family: cursive;
+        }
+        
+        .month{
+            background-color: #242424;
+            color:white;
+            font-weight: 700;
+            font-size: 17px;
+            padding: 5px;
+            margin: 0;
+            height: 100%;
+            width: 25%;
+            border-bottom-left-radius: 0px;
+            border-bottom-right-radius: 10px;
+        }
+        .recent-gallery:hover .month{
+            background-color:#A38D78;
+            color:white;
+            font-weight: 700;
+            font-size: 17px;
+            padding: 5px;
+            margin: 0;
+            height: 100%;
+            width: 25%;
+            border-bottom-left-radius: 0px;
+            border-bottom-right-radius: 10px;
+        }
+/* Partners*/
+    .partnerimg {
+    width: 130px;
+    height: auto;
+}
+   #nav-search input[type=search]:focus {
+    width: 100px;
+}
+/*    Footer*/
+    .flogo{
+        width: 100%
+    }
+    #footer h2{
+        font-size:23px;
+    }
+    #footer p{
+        font-size:15px
+    }
+    .copylink a{
+        font-size:15px!important;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .copylink a:first-child{
+        margin-left: 0;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+.carousel-caption {
+    top: 0px;
+    margin-top: 150px;
+}
+
+.carousel-caption h5 {
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top:0px;
+}
+
+.carousel-caption p {
+    width: 75%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+}
+    .carousel-caption button{
+        margin-top: 50px;
+    }
+
+/*Work Proccess*/
+    
+.workingproccesssections {
+    padding: 30px 0px;
+
+}
+
+.workingproccesssections img {
+    width: 40px;
+    color: #C7B199;
+}
+
+.workingproccesssections h3 {
+    font-size: 25px;
+    padding-top: 15px;
+
+}
+
+.workingproccesssections p {
+    width: 90%;
+    text-align:justify center;
+    font-size: 15px
+}
+/*   Waxom Purse*/
+    .purse-text h1{
+        font-size:29px;
+        margin-top: 25px;
+    }
+    .purse-btn button {
+    margin-top: 30px;
+        width: 170px;
+}
+
+.purse-btn button a {
+    font-size: 12px;
+}
+/*Letest Project Gallery*/
+    .lp-gallery .box-content:hover{
+    width: 100%;
+    height:68.6%;
+   
+    padding-left:130px;
+    padding-top: 100px;
+  
+}
+    .img-text {
+        width: 85%!important
+    }
+    .img-text h5{
+        font-size:18px;
+        font-weight: 700;}
+/*Mobile Device*/
+    .mobile-sec2 {
+    padding-top: 80px;
+}
+/*    Recent Post*/
+    .recent-head p {
+    width: 80%;
+}
+    .part1-text p {
+    width: 85%;
+    text-align: left;
+        font-size: 15px;
+}
+.date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:10px;
+    opacity:1;
+    }
+    .recent-gallery:hover .date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:10px;
+    opacity:1;
+    }
+    .day{
+        background-color: #38373C;
+        color:white;
+        font-weight: 700;
+        font-size: 15px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:25%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .recent-gallery:hover .day{
+        background-color:#C7B297;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:25%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .day p{
+        font-size: 20px;
+        text-align: center;
+        line-height: 1;
+        margin-top: 20px;
+        font-family: cursive;
+    }
+    
+    .month{
+        background-color: #242424;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 25%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .month p{
+        text-align: center;
+    }
+    .recent-gallery:hover .month{
+        background-color:#A38D78;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 25%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+/* Partners*/
+    .partnerimg {
+    width: 160px;
+    height: auto;
+}
+   #nav-search input[type=search]:focus {
+    width: 100px;
+}
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) { 
+.carousel-caption {
+    top: 50px;
+    margin-top: 150px;
+}.date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:10px;
+    opacity:1;
+    }
+    .recent-gallery:hover .date{
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    right: 0;
+    margin-top:10px;
+    margin-left:10px;
+    opacity:1;
+    }
+    .day{
+        background-color: #38373C;
+        color:white;
+        font-weight: 700;
+        font-size: 15px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:25%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .recent-gallery:hover .day{
+        background-color:#C7B297;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width:25%;
+        border-top-left-radius:5px;
+        border-top-right-radius: 5px;
+    }
+    .day p{
+        font-size: 20px;
+        text-align: center;
+        line-height: 1;
+        margin-top: 20px;
+        font-family: cursive;
+    }
+    
+    .month{
+        background-color: #242424;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 25%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+    .month p{
+        text-align: center;
+    }
+    .recent-gallery:hover .month{
+        background-color:#A38D78;
+        color:white;
+        font-weight: 700;
+        font-size: 17px;
+        padding: 5px;
+        margin: 0;
+        height: 100%;
+        width: 25%;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+
+}
